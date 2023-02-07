@@ -1,0 +1,57 @@
+{
+	"compiler": {
+		"version": "0.8.16+commit.07a7930e"
+	},
+	"language": "Solidity",
+	"output": {
+		"abi": [
+			{
+				"inputs": [],
+				"name": "selfDestruct",
+				"outputs": [],
+				"stateMutability": "nonpayable",
+				"type": "function"
+			},
+			{
+				"stateMutability": "payable",
+				"type": "receive"
+			}
+		],
+		"devdoc": {
+			"kind": "dev",
+			"methods": {},
+			"version": 1
+		},
+		"userdoc": {
+			"kind": "user",
+			"methods": {},
+			"version": 1
+		}
+	},
+	"settings": {
+		"compilationTarget": {
+			"contracts/SampleSelfdestruct.sol": "SelfdestructSample"
+		},
+		"evmVersion": "london",
+		"libraries": {},
+		"metadata": {
+			"bytecodeHash": "ipfs"
+		},
+		"optimizer": {
+			"enabled": false,
+			"runs": 200
+		},
+		"remappings": []
+	},
+	"sources": {
+		"contracts/SampleSelfdestruct.sol": {
+			"keccak256": "0x89141245724dcf56083cac912c8026bf15ab0e23623d1de97ca24b5a881fa2b1",
+			"license": "GPL-3.0-or-later",
+			"urls": [
+				"bzz-raw://0d36c5c1bd2e5bf28537b38a04fe6198d3e8300535538fe407fedfc37586e8d1",
+				"dweb:/ipfs/QmS8QcNxjqLv1CasxoovcevtSqwe6RcAK2pE7cxqtAciBv"
+			]
+		}
+	},
+	"version": 1
+}
