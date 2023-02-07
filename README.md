@@ -8,15 +8,15 @@
 
 ### Demo Video
 
-- <h3>part 1: </h3> 
-<h3 align="center"> coffee token ☕️ -> CFT </h3>
+- <h3>part 1️⃣: </h3> 
+<h3 align="center"> ⭐️ coffee token ☕️ -> CFT </h3>
 
 <a title="Coffee Token" href="https://youtu.be/FWhYbY-KB80">
   <img src="https://cdn.discordapp.com/attachments/1071312646562914396/1072475044179083354/Screenshot_2023-02-07_at_4.42.37_PM.png" width="100%" height="600">
 </a>
 
-- <h3>part 2: </h3>
-<h3 align="center"> simple token sale smart contract </h3>
+- <h3>part 2️⃣: </h3>
+<h3 align="center"> ⭐️ simple token sale smart contract </h3>
 
 <a title="smart sale" href="https://youtu.be/RxCJ4de1tqc">
   <img src="https://cdn.discordapp.com/attachments/1071312646562914396/1072474730709401601/Coffee_token_thumnail_github.png" width="100%" height="600">
